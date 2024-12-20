@@ -1,0 +1,1 @@
+Developed a social media app using Java, MySQL, and Java Swing, allowing users to share opinions in text, image, and video formats. Integrated daily trending questions with interactive polls to enhance user engagement. Implemented a robust backend with MySQL for managing posts, polls, and user interactions efficiently
